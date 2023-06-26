@@ -1,6 +1,9 @@
 # Sudoku-Backtracking-Visualizer
 This is a sudoku backtracking viusalizer which shows how sudoku solve inside program by backtracking method. I use HTML, CSS, JavaScript and C++ logic in this.
 
+## Live Presentation
+https://sumitkumarcse.github.io/Sudoku-Backtracking-Visualizer/
+
 ## Rules to Follow while Solve Sudoku
 1. Each row must contain all the numbers from 1 to 9 without repetition.
 2. Each column must contain all the numbers from 1 to 9 without repetition.
