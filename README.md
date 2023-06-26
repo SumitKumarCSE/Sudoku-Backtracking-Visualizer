@@ -1,5 +1,5 @@
 # Sudoku-Backtracking-Visualizer
-This a sudoku backtracking viusalizer which shows how sudoku solve inside program by backtracking method. I use HTML, CSS, JavaScript and C++ logic in this.
+This is a sudoku backtracking viusalizer which shows how sudoku solve inside program by backtracking method. I use HTML, CSS, JavaScript and C++ logic in this.
 
 ## Rules to Follow while Solve Sudoku
 1. Each row must contain all the numbers from 1 to 9 without repetition.
@@ -9,7 +9,7 @@ This a sudoku backtracking viusalizer which shows how sudoku solve inside progra
 ### Initial Stage:
 ![Alt text](https://raw.githubusercontent.com/SumitKumarCSE/Sudoku-Backtracking-Visualizer/main/ReadMe%20img/img1.png)
 
-### Click on Load Page
+### Click on Load Board
 ![Alt text](https://raw.githubusercontent.com/SumitKumarCSE/Sudoku-Backtracking-Visualizer/main/ReadMe%20img/img2.png)
 
 ### Checking if Sudoku is solvable or not...
